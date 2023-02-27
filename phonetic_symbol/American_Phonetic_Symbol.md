@@ -15,6 +15,8 @@
 - [eɪ](#eɪ)
 - [aʊ](#aʊ)
 - [aɪ](#aɪ)
+- [b & p](#b & p)
+- [s & z](#s & z)
 
 ## æ
 
@@ -188,5 +190,54 @@
 
 - buy/pint/lie/line/tile/rice
 
+## ɪr
+
+- beer/here/ear/deer/tear
+
+## ɪə
+
+- 
+
+## iə
+
+- idea/
+
+## b & p
+
+- 清辅音 -> p
+- 浊辅音 -> b
+
+- /bat/pat/bay/pay/bet/pet/bye/pie/bit/pit
+- bull/pull/big/pig/rib/rip/cub/cup/bill/pill/
+- tab/tap/pub/pup/bitch/pitch/beak/peak
+- 浊化现象
+  - 重读音节[s]后面的清辅音p浊化成b
+    - speak/spit/spot/span/spell/space
+
+## s & z
+
+- 清辅音 -> s
+- 浊辅音 -> z
+- s
+  - ice/bus/rice/fussy/lacy/price/sip/sink/sap/niece
+- z
+  - eyes/buzz/rise/fuzzy/lazy/prize/zip/zink/zap/knees
 
 
+
+## t & d
+
+- 清辅音 -> t
+- 浊辅音 -> d
+- t
+  - ten/tea/tore/tin/tip/town/tat/tart/tie/mate/feet/heart
+  - 元音 + t + 元音 -》弹舌音 -> d
+  - r + t + 元音 -》弹舌音 -> d
+    - matter/party/city
+  - 某些被省略的t
+    - center/interview
+  - 浊化现象
+    - study/stuff/steak/stick/staff
+- d
+  - den/D/door/din/dip/down/dot/dart/dye/maid/feed/hard
+  - 
