@@ -19,6 +19,8 @@
 - [s & z](#s_z)
 - [t & d](#t_d)
 
+- [短语](#短语)
+
 ## æ
 
 - apple/act/ask/and/angry/answer/back/bad/can/chat
@@ -241,4 +243,29 @@
     - study/stuff/steak/stick/staff
 - d
   - den/D/door/din/dip/down/dot/dart/dye/maid/feed/hard
-  - 
+
+
+
+
+
+## 短语
+
+- ```
+  set up camp -> 扎营
+  take first watch -> 我来值第一班
+  Not a chance -> 不可能
+  stick to -》 坚持
+  get to know sb -> 逐步了解某人
+  chill vibe -> 放松的氛围
+  put out -> 发布，出版
+  hand sanitizer -> 免洗手液
+  tremendous problems -> 巨大的问题
+  chew gum -> 嚼口香糖
+  teller -》 出纳员
+  grade school -> 小学
+  animal shelter -》动物收容所
+  be terminated ->被解雇
+  ```
+
+  
+
